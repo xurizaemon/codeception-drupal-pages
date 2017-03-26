@@ -1,5 +1,5 @@
 {
-  "name": "ixis/codeception-drupal-pages",
+  "name": "fuzionnz/codeception-drupal-pages",
   "description": "A Codeception module to provide standard Drupal page objects.",
   "authors": [
     {
